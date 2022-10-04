@@ -10,5 +10,6 @@ Modify the iDecide App so that it has 8 POSSIBLE ANSWERS, instead of always sayi
 You will need a random number function, AND
 an NSMutableArray of your 8 possible answers.  
 
-**Output of App**
+**Output of App**  
+  
 ![](iDecide.gif)
