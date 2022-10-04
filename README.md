@@ -11,5 +11,7 @@ You will need a random number function, AND
 an NSMutableArray of your 8 possible answers.  
 
 **Output of App**  
-  
-![](iDecide.gif)
+
+<p align="center">
+  <img src="iDecide.gif" alt="animated" />
+</p>
