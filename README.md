@@ -9,6 +9,7 @@ For this assignment we made modifications requested by the professor.
 Modify the iDecide App so that it has 8 POSSIBLE ANSWERS, instead of always saying "Go for it!"  
 You will need a random number function, AND
 an NSMutableArray of your 8 possible answers.  
+Essentially, it is an app version of a magic 8-ball.  
 
 **Output of App**  
 
